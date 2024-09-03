@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @BhanuSharma2002
-- 👀 I’m interested in Full stack development java  
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+  
+- 🌱 I’m currently learning Pyhton
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...ibhanu145023@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 BhanuSharma2002/BhanuSharma2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
